@@ -1,0 +1,1001 @@
+[{
+  "id": 1,
+  "category": "Escort",
+  "name": "Dance Party, USA",
+  "brand": "Ford",
+  "description": "dui luctus rutrum nulla tellus in",
+  "quantity_per_unit": 66,
+  "unit_price": 98,
+  "picture": "https://i.picsum.photos/id/0/5616/3744.jpg",
+  "discount": 64
+}, {
+  "id": 2,
+  "category": "Bravada",
+  "name": "Clash of the Titans",
+  "brand": "Oldsmobile",
+  "description": "ultrices phasellus id sapien in sapien",
+  "quantity_per_unit": 22,
+  "unit_price": 64,
+  "picture": "https://i.picsum.photos/id/1044/4032/2268.jpg",
+  "discount": 85
+}, {
+  "id": 3,
+  "category": "CX",
+  "name": "Casshern",
+  "brand": "Citroën",
+  "description": "adipiscing molestie hendrerit at vulputate vitae",
+  "quantity_per_unit": 56,
+  "unit_price": 74,
+  "picture": "https://i.picsum.photos/id/104/3840/2160.jpg",
+  "discount": 45
+}, {
+  "id": 4,
+  "category": "200SX",
+  "name": "French Kiss",
+  "brand": "Nissan",
+  "description": "sem praesent id massa id nisl venenatis lacinia",
+  "quantity_per_unit": 4,
+  "unit_price": 23,
+  "picture": "https://i.picsum.photos/id/1040/4496/3000.jpg",
+  "discount": 34
+}, {
+  "id": 5,
+  "category": "Suburban 2500",
+  "name": "Clifford",
+  "brand": "Chevrolet",
+  "description": " sapien urna pretium nisl ut volutpat",
+  "quantity_per_unit": 98,
+  "unit_price": 57,
+  "picture": "https://i.picsum.photos/id/1041/5184/2916.jpg",
+  "discount": 38
+}, {
+  "id": 6,
+  "category": "207",
+  "name": "Maya Lin: A Strong Clear Vision",
+  "brand": "Peugeot",
+  "description": "sa tempor convallis nulla neque",
+  "quantity_per_unit": 38,
+  "unit_price": 68,
+  "picture": "https://i.picsum.photos/id/1042/3456/5184.jpg",
+  "discount": 59
+}, {
+  "id": 7,
+  "category": "Nubira",
+  "name": "Harmagedon",
+  "brand": "Daewoo",
+  "description": "vestibulum rutrum rutrum neque aenean auctor",
+  "quantity_per_unit": 66,
+  "unit_price": 65,
+  "picture": "https://i.picsum.photos/id/1043/5184/3456.jpg",
+  "discount": 72
+}, {
+  "id": 8,
+  "category": "Sidekick",
+  "name": "Happiness Is in the Field (Bonheur est dans le pré, Le)",
+  "brand": "Suzuki",
+  "description": " congue eget semper rutrum nulla",
+  "quantity_per_unit": 77,
+  "unit_price": 17,
+  "picture": "https://i.picsum.photos/id/1039/6945/4635.jpg",
+  "discount": 93
+}, {
+  "id": 9,
+  "category": "Grand Cherokee",
+  "name": "Fork in the Road, A",
+  "brand": "Jeep",
+  "description": " lobortis ligula sit amet eleifend",
+  "quantity_per_unit": 3,
+  "unit_price": 56,
+  "picture": "https://i.picsum.photos/id/1048/5616/3744.jpg",
+  "discount": 84
+}, {
+  "id": 10,
+  "category": "PT Cruiser",
+  "name": "Uncle Nino",
+  "brand": "Chrysler",
+  "description": "  velit donec diam neque vestibulum eget",
+  "quantity_per_unit": 41,
+  "unit_price": 82,
+  "picture": "https://i.picsum.photos/id/1049/3900/3120.jpg",
+  "discount": 76
+}, {
+  "id": 11,
+  "category": "M3",
+  "name": "Bad Boy (Dawg)",
+  "brand": "BMW",
+  "description": "sl duis bibendum felis sed interdum venenatis turpis",
+  "quantity_per_unit": 60,
+  "unit_price": 35,
+  "picture": "https://i.picsum.photos/id/1050/6000/4000.jpg",
+  "discount": 88
+}, {
+  "id": 12,
+  "category": "XJ Series",
+  "name": "Nightmare Factory",
+  "brand": "Jaguar",
+  "description": " ipsum dolor sit amet consectetuer adipiscing",
+  "quantity_per_unit": 23,
+  "unit_price": 68,
+  "picture": "https://i.picsum.photos/id/1051/4928/3264.jpg",
+  "discount": 66
+}, {
+  "id": 13,
+  "category": "Fleetwood",
+  "name": "Jönssonligan får guldfeber",
+  "brand": "Cadillac",
+  "description": " faucibus orci luctus et ultrices",
+  "quantity_per_unit": 53,
+  "unit_price": 66,
+  "picture": "https://i.picsum.photos/id/1052/4000/2667.jpg",
+  "discount": 99
+}, {
+  "id": 14,
+  "category": "S10",
+  "name": "Astronaut's Wife, The",
+  "brand": "Chevrolet",
+  "description": "   vivamus in felis eu sapien",
+  "quantity_per_unit": 43,
+  "unit_price": 89,
+  "picture": "https://i.picsum.photos/id/1053/3596/2393.jpg",
+  "discount": 67
+}, {
+  "id": 15,
+  "category": "A6",
+  "name": "Colors of the Mountain, The (Los colores de la montaña)",
+  "brand": "Audi",
+  "description": " congue eget semper rutrum nulla",
+  "quantity_per_unit": 11,
+  "unit_price": 28,
+  "picture": "https://i.picsum.photos/id/1054/3079/1733.jpg",
+  "discount": 22
+}, {
+  "id": 16,
+  "category": "900",
+  "name": "Without Limits",
+  "brand": "Saab",
+  "description": "  sed magna at nunc commodo placerat",
+  "quantity_per_unit": 65,
+  "unit_price": 15,
+  "picture": "https://i.picsum.photos/id/1055/5472/3648.jpg",
+  "discount": 56
+}, {
+  "id": 17,
+  "category": "Ranger",
+  "name": "35 Shots of Rum (35 rhums)",
+  "brand": "Ford",
+  "description": "  ligula nec sem duis aliquam convallis nunc",
+  "quantity_per_unit": 46,
+  "unit_price": 7,
+  "picture": "https://i.picsum.photos/id/1056/3988/2720.jpg",
+  "discount": 50
+}, {
+  "id": 18,
+  "category": "Cordia",
+  "name": "Falcon Rising",
+  "brand": "Mitsubishi",
+  "description": " posuere cubilia curae donec",
+  "quantity_per_unit": 54,
+  "unit_price": 95,
+  "picture": "https://i.picsum.photos/id/1057/6016/4016.jpg",
+  "discount": 62
+}, {
+  "id": 19,
+  "category": "Sebring",
+  "name": "Just a Sigh",
+  "brand": "Chrysler",
+  "description": "  at lorem integer tincidunt ante",
+  "quantity_per_unit": 11,
+  "unit_price": 5,
+  "picture": "https://i.picsum.photos/id/1058/4608/3072.jpg",
+  "discount": 80
+}, {
+  "id": 20,
+  "category": "Tempest",
+  "name": "My Friend Henry (Ystäväni Henry)",
+  "brand": "Pontiac",
+  "description": " augue a suscipit nulla elit ac",
+  "quantity_per_unit": 5,
+  "unit_price": 72,
+  "picture": "https://i.picsum.photos/id/1059/7360/4912.jpg",
+  "discount": 12
+}, {
+  "id": 21,
+  "category": "Tribeca",
+  "name": "Busses Roar (Buses Roar)",
+  "brand": "Subaru",
+  "description": " augue vestibulum rutrum rutrum",
+  "quantity_per_unit": 51,
+  "unit_price": 48,
+  "picture": "https://i.picsum.photos/id/106/2592/1728.jpg",
+  "discount": 4
+}, {
+  "id": 22,
+  "category": "Mustang",
+  "name": "One Little Indian",
+  "brand": "Ford",
+  "description": "  potenti cras in purus eu magna",
+  "quantity_per_unit": 5,
+  "unit_price": 82,
+  "picture": "https://i.picsum.photos/id/1060/5598/3732.jpg",
+  "discount": 28
+}, {
+  "id": 23,
+  "category": "Ram Wagon B350",
+  "name": "White Bird in a Blizzard",
+  "brand": "Dodge",
+  "description": "  metus sapien ut nunc vestibulum ante ipsum",
+  "quantity_per_unit": 15,
+  "unit_price": 30,
+  "picture": "https://i.picsum.photos/id/1061/3264/2448.jpg",
+  "discount": 31
+}, {
+  "id": 24,
+  "category": "LS",
+  "name": "Cat Run 2",
+  "brand": "Lexus",
+  "description": "  laoreet ut rhoncus aliquet",
+  "quantity_per_unit": 18,
+  "unit_price": 3,
+  "picture": "https://i.picsum.photos/id/1062/5092/3395.jpg",
+  "discount": 54
+}, {
+  "id": 25,
+  "category": "Tempo",
+  "name": "Amazing Johnathan: Wrong on Every Level",
+  "brand": "Ford",
+  "description": " id sapien in sapien iaculis",
+  "quantity_per_unit": 27,
+  "unit_price": 89,
+  "picture": "https://i.picsum.photos/id/1063/4867/3215.jpg",
+  "discount": 52
+}, {
+  "id": 26,
+  "category": "H2",
+  "name": "Django Unchained",
+  "brand": "Hummer",
+  "description": " in lectus pellentesque at nulla suspendisse potenti",
+  "quantity_per_unit": 22,
+  "unit_price": 99,
+  "picture": "https://i.picsum.photos/id/1064/4236/2819.jpg",
+  "discount": 74
+}, {
+  "id": 27,
+  "category": "Park Avenue",
+  "name": "Great Passage, The (Fune wo amu)",
+  "brand": "Buick",
+  "description": " magna bibendum imperdiet nullam orci",
+  "quantity_per_unit": 40,
+  "unit_price": 27,
+  "picture": "https://i.picsum.photos/id/1065/3744/5616.jpg",
+  "discount": 17
+}, {
+  "id": 28,
+  "category": "Ram 2500",
+  "name": "Nueba Yol",
+  "brand": "Dodge",
+  "description": " faucibus orci luctus et ultrices",
+  "quantity_per_unit": 100,
+  "unit_price": 42,
+  "picture": "https://i.picsum.photos/id/1066/2144/1424.jpg",
+  "discount": 63
+}, {
+  "id": 29,
+  "category": "Murciélago",
+  "name": "Around the Block",
+  "brand": "Lamborghini",
+  "description": " erat curabitur gravida nisi at nibh",
+  "quantity_per_unit": 21,
+  "unit_price": 64,
+  "picture": "https://i.picsum.photos/id/1067/5760/3840.jpg",
+  "discount": 65
+}, {
+  "id": 30,
+  "category": "Tundra",
+  "name": "Postman Blues",
+  "brand": "Toyota",
+  "description": "  ultrices posuere cubilia curae nulla dapibus dolor",
+  "quantity_per_unit": 30,
+  "unit_price": 89,
+  "picture": "https://i.picsum.photos/id/1068/7117/4090.jpg",
+  "discount": 38
+}, {
+  "id": 31,
+  "category": "Tacoma",
+  "name": "Band Wagon, The",
+  "brand": "Toyota",
+  "description": " mauris ullamcorper purus sit amet",
+  "quantity_per_unit": 46,
+  "unit_price": 54,
+  "picture": "https://i.picsum.photos/id/1069/3500/2333.jpg",
+  "discount": 11
+}, {
+  "id": 32,
+  "category": "Jimmy",
+  "name": "The Boy in the Mirror",
+  "brand": "GMC",
+  "description": " integer ac neque duis bibendum morbi",
+  "quantity_per_unit": 35,
+  "unit_price": 38,
+  "picture": "https://i.picsum.photos/id/107/5760/3840.jpg",
+  "discount": 69
+}, {
+  "id": 33,
+  "category": "IS F",
+  "name": "Cut-Throats Nine (Condenados a vivir)",
+  "brand": "Lexus",
+  "description": " potenti in eleifend quam a odio in hac habitasse",
+  "quantity_per_unit": 33,
+  "unit_price": 90,
+  "picture": "https://i.picsum.photos/id/1070/5472/3648.jpg",
+  "discount": 22
+}, {
+  "id": 34,
+  "category": "LS",
+  "name": "Cremaster 5",
+  "brand": "Lincoln",
+  "description": " nisl venenatis lacinia aenean sit amet",
+  "quantity_per_unit": 8,
+  "unit_price": 16,
+  "picture": "https://i.picsum.photos/id/1071/3000/1996.jpg",
+  "discount": 53
+}, {
+  "id": 35,
+  "category": "Silverado 3500",
+  "name": "End of the Line",
+  "brand": "Chevrolet",
+  "description": " suspendisse potenti nullam porttitor",
+  "quantity_per_unit": 77,
+  "unit_price": 29,
+  "picture": "https://i.picsum.photos/id/1072/3872/2592.jpg",
+  "discount": 89
+}, {
+  "id": 36,
+  "category": "Firefly",
+  "name": "Rude Boy",
+  "brand": "Pontiac",
+  "description": " vel ipsum praesent blandit",
+  "quantity_per_unit": 17,
+  "unit_price": 5,
+  "picture": "https://i.picsum.photos/id/1073/5472/3648.jpg",
+  "discount": 23
+}, {
+  "id": 37,
+  "category": "Express 2500",
+  "name": "Marilyn in Manhattan",
+  "brand": "Chevrolet",
+  "description": " scelerisque quam turpis adipiscing",
+  "quantity_per_unit": 65,
+  "unit_price": 9,
+  "picture": "https://i.picsum.photos/id/1074/5472/3648.jpg",
+  "discount": 24
+}, {
+  "id": 38,
+  "category": "Swift",
+  "name": "Apple Jack",
+  "brand": "Suzuki",
+  "description": "  eget tincidunt eget tempus vel pede morbi porttitor",
+  "quantity_per_unit": 45,
+  "unit_price": 33,
+  "picture": "https://i.picsum.photos/id/1075/4858/3239.jpg",
+  "discount": 72
+}, {
+  "id": 39,
+  "category": "62",
+  "name": "Smiley",
+  "brand": "Maybach",
+  "description": " vulputate luctus cum sociis natoque",
+  "quantity_per_unit": 65,
+  "unit_price": 21,
+  "picture": "https://i.picsum.photos/id/1076/4835/3223.jpg",
+  "discount": 65
+}, {
+  "id": 40,
+  "category": "S8",
+  "name": "Ashes, The (Popioly)",
+  "brand": "Audi",
+  "description": "  hendrerit at vulputate vitae nisl aenean",
+  "quantity_per_unit": 46,
+  "unit_price": 14,
+  "picture": "https://i.picsum.photos/id/1077/3000/1995.jpg",
+  "discount": 13
+}, {
+  "id": 41,
+  "category": "Highlander",
+  "name": "Intervista",
+  "brand": "Toyota",
+  "description": "  nulla elit ac nulla sed vel enim",
+  "quantity_per_unit": 90,
+  "unit_price": 7,
+  "picture": "https://i.picsum.photos/id/1078/3000/2000.jpg",
+  "discount": 78
+}, {
+  "id": 42,
+  "category": "740",
+  "name": "Brushfires",
+  "brand": "Volvo",
+  "description": "  tellus in sagittis dui vel",
+  "quantity_per_unit": 35,
+  "unit_price": 43,
+  "picture": "https://i.picsum.photos/id/1079/4496/3000.jpg",
+  "discount": 33
+}, {
+  "id": 43,
+  "category": "Town Car",
+  "name": "Blue Collar",
+  "brand": "Lincoln",
+  "description": "  amet erat nulla tempus vivamus",
+  "quantity_per_unit": 14,
+  "unit_price": 100,
+  "picture": "https://i.picsum.photos/id/108/2000/1333.jpg",
+  "discount": 62
+}, {
+  "id": 44,
+  "category": "Impreza",
+  "name": "Little White Lies (Les petits mouchoirs)",
+  "brand": "Subaru",
+  "description": " ultrices libero non mattis pulvinar nulla",
+  "quantity_per_unit": 13,
+  "unit_price": 5,
+  "picture": "https://i.picsum.photos/id/1080/6858/4574.jpg",
+  "discount": 84
+}, {
+  "id": 45,
+  "category": "Avalon",
+  "name": "Pennies from Heaven",
+  "brand": "Toyota",
+  "description": " purus sit amet nulla quisque arcu libero rutrum ac",
+  "quantity_per_unit": 56,
+  "unit_price": 76,
+  "picture": "https://i.picsum.photos/id/1081/5512/3708.jpg",
+  "discount": 97
+}, {
+  "id": 46,
+  "category": "Firebird",
+  "name": "Questo piccolo grande amore",
+  "brand": "Pontiac",
+  "description": " luctus et ultrices posuere cubilia curae nulla dapibus",
+  "quantity_per_unit": 43,
+  "unit_price": 40,
+  "picture": "https://i.picsum.photos/id/1082/5416/3611.jpg",
+  "discount": 45
+}, {
+  "id": 47,
+  "category": "E350",
+  "name": "Forbidden Kingdom, The",
+  "brand": "Ford",
+  "description": " duis bibendum felis sed interdum",
+  "quantity_per_unit": 29,
+  "unit_price": 30,
+  "picture": "https://i.picsum.photos/id/1083/5472/3648.jpg",
+  "discount": 48
+}, {
+  "id": 48,
+  "category": "SL-Class",
+  "name": "Fudoh: The New Generation (Gokudô sengokushi: Fudô)",
+  "brand": "Mercedes-Benz",
+  "description": " fusce congue diam id ornare imperdiet",
+  "quantity_per_unit": 33,
+  "unit_price": 95,
+  "picture": "https://i.picsum.photos/id/1084/4579/3271.jpg",
+  "discount": 33
+}, {
+  "id": 49,
+  "category": "Jetta",
+  "name": "This Is England",
+  "brand": "Volkswagen",
+  "description": "   orci luctus et ultrices",
+  "quantity_per_unit": 7,
+  "unit_price": 24,
+  "picture": "https://i.picsum.photos/id/109/4287/2392.jpg",
+  "discount": 6
+}, {
+  "id": 50,
+  "category": "Chariot",
+  "name": "Promise Her Anything",
+  "brand": "Mitsubishi",
+  "description": " get eros elementum pellentesque quisque",
+  "quantity_per_unit": 32,
+  "unit_price": 17,
+  "picture": "https://i.picsum.photos/id/11/2500/1667.jpg",
+  "discount": 82
+}, {
+  "id": 51,
+  "category": "Aspire",
+  "name": "Hitler's Madman",
+  "brand": "Ford",
+  "description": "  sed sagittis nam congue risus",
+  "quantity_per_unit": 61,
+  "unit_price": 13,
+  "picture": "https://i.picsum.photos/id/110/5616/3744.jpg",
+  "discount": 85
+}, {
+  "id": 52,
+  "category": "3500 Club Coupe",
+  "name": "Heavenly Forest",
+  "brand": "GMC",
+  "description": "  varius ut blandit non interdum in ante vestibulum ante ipsum primis",
+  "quantity_per_unit": 81,
+  "unit_price": 83,
+  "picture": "https://i.picsum.photos/id/111/4400/2656.jpg",
+  "discount": 71
+}, {
+  "id": 53,
+  "category": "Rio",
+  "name": "Elf",
+  "brand": "Kia",
+  "description": " donec quis orci eget orci vehicula condimentum curabitur in",
+  "quantity_per_unit": 18,
+  "unit_price": 88,
+  "picture": "https://i.picsum.photos/id/112/4200/2800.jpg",
+  "discount": 11
+}, {
+  "id": 54,
+  "category": "Tracker",
+  "name": "Three Brave Men",
+  "brand": "Chevrolet",
+  "description": " vulputate luctus cum",
+  "quantity_per_unit": 87,
+  "unit_price": 43,
+  "picture": "https://i.picsum.photos/id/113/4168/2464.jpg",
+  "discount": 83
+}, {
+  "id": 55,
+  "category": "Cube",
+  "name": "Orgazmo",
+  "brand": "Nissan",
+  "description": " suspendisse accumsan tortor quis",
+  "quantity_per_unit": 62,
+  "unit_price": 86,
+  "picture": "https://i.picsum.photos/id/114/3264/2448.jpg",
+  "discount": 56
+}, {
+  "id": 56,
+  "category": "SC",
+  "name": "Girl with the Dragon Tattoo, The (Män som hatar kvinnor)",
+  "brand": "Lexus",
+  "description": "  nunc viverra dapibus nulla",
+  "quantity_per_unit": 1,
+  "unit_price": 22,
+  "picture": "https://i.picsum.photos/id/115/1500/1000.jpg",
+  "discount": 92
+}, {
+  "id": 57,
+  "category": "LaCrosse",
+  "name": "Superman/Shazam!: The Return of Black Adam (DC Showcase Original Shorts Collection)",
+  "brand": "Buick",
+  "description": " lacinia eget tincidunt eget tempus vel",
+  "quantity_per_unit": 38,
+  "unit_price": 31,
+  "picture": "https://i.picsum.photos/id/116/3504/2336.jpg",
+  "discount": 73
+}, {
+  "id": 58,
+  "category": "Tempo",
+  "name": "Infidel, The",
+  "brand": "Ford",
+  "description": " quis turpis sed ante vivamus tortor duis mattis",
+  "quantity_per_unit": 55,
+  "unit_price": 22,
+  "picture": "https://i.picsum.photos/id/117/1544/1024.jpg",
+  "discount": 83
+}, {
+  "id": 59,
+  "category": "400E",
+  "name": "Sheepman, The",
+  "brand": "Mercedes-Benz",
+  "description": " honcus sed vestibulum sit",
+  "quantity_per_unit": 4,
+  "unit_price": 58,
+  "picture": "https://i.picsum.photos/id/118/1500/1000.jpg",
+  "discount": 15
+}, {
+  "id": 60,
+  "category": "Sonoma",
+  "name": "Hackers",
+  "brand": "GMC",
+  "description": "  in faucibus orci luctus et ultrices posuere",
+  "quantity_per_unit": 82,
+  "unit_price": 16,
+  "picture": "https://i.picsum.photos/id/119/3264/2176.jpg",
+  "discount": 63
+}, {
+  "id": 61,
+  "category": "PT Cruiser",
+  "name": "Spasmo",
+  "brand": "Chrysler",
+  "description": " ac habitasse platea",
+  "quantity_per_unit": 43,
+  "unit_price": 78,
+  "picture": "https://i.picsum.photos/id/12/2500/1667.jpg",
+  "discount": 15
+}, {
+  "id": 62,
+  "category": "Envoy",
+  "name": "Pulgasari",
+  "brand": "GMC",
+  "description": "  nisi at nibh in hac habitasse",
+  "quantity_per_unit": 66,
+  "unit_price": 66,
+  "picture": "https://i.picsum.photos/id/120/4928/3264.jpg",
+  "discount": 90
+}, {
+  "id": 63,
+  "category": "9-5",
+  "name": "Kiss Me Goodbye",
+  "brand": "Saab",
+  "description": "  sapien dignissim vestibulum",
+  "quantity_per_unit": 39,
+  "unit_price": 46,
+  "picture": "https://i.picsum.photos/id/121/1600/1067.jpg",
+  "discount": 2
+}, {
+  "id": 64,
+  "category": "Scirocco",
+  "name": "Barney's Great Adventure",
+  "brand": "Volkswagen",
+  "description": " erat quisque erat eros",
+  "quantity_per_unit": 65,
+  "unit_price": 48,
+  "picture": "https://i.picsum.photos/id/122/4147/2756.jpg",
+  "discount": 52
+}, {
+  "id": 65,
+  "category": "Starion",
+  "name": "Secrets, The (Sodot, Ha-)",
+  "brand": "Mitsubishi",
+  "description": "  imperdiet nullam orci pede",
+  "quantity_per_unit": 54,
+  "unit_price": 30,
+  "picture": "https://i.picsum.photos/id/123/4928/3264.jpg",
+  "discount": 28
+}, {
+  "id": 66,
+  "category": "G-Series 1500",
+  "name": "Year of the Comet",
+  "brand": "Chevrolet",
+  "description": " vestibulum sed magna at nunc",
+  "quantity_per_unit": 2,
+  "unit_price": 11,
+  "picture": "https://i.picsum.photos/id/124/3504/2336.jpg",
+  "discount": 56
+}, {
+  "id": 67,
+  "category": "Town Car",
+  "name": "Vivien Leigh: Scarlett and Beyond",
+  "brand": "Lincoln",
+  "description": "  at diam nam tristique tortor eu",
+  "quantity_per_unit": 71,
+  "unit_price": 95,
+  "picture": "https://i.picsum.photos/id/125/1500/1000.jpg",
+  "discount": 71
+}, {
+  "id": 68,
+  "category": "Frontier",
+  "name": "Love Is All You Need (Den skaldede frisør)",
+  "brand": "Nissan",
+  "description": "  tincidunt in leo maecenas",
+  "quantity_per_unit": 100,
+  "unit_price": 75,
+  "picture": "https://i.picsum.photos/id/126/4272/2511.jpg",
+  "discount": 16
+}, {
+  "id": 69,
+  "category": "GTI",
+  "name": "Trixie",
+  "brand": "Volkswagen",
+  "description": "  lectus in quam fringilla",
+  "quantity_per_unit": 15,
+  "unit_price": 26,
+  "picture": "https://i.picsum.photos/id/127/4032/2272.jpg",
+  "discount": 83
+}, {
+  "id": 70,
+  "category": "Envoy XL",
+  "name": "Annie",
+  "brand": "GMC",
+  "description": " tristique est et tempus semper est",
+  "quantity_per_unit": 51,
+  "unit_price": 65,
+  "picture": "https://i.picsum.photos/id/128/3823/2549.jpg",
+  "discount": 57
+}, {
+  "id": 71,
+  "category": "Celica",
+  "name": "No Distance Left to Run",
+  "brand": "Toyota",
+  "description": "  nam dui proin leo odio porttitor",
+  "quantity_per_unit": 41,
+  "unit_price": 2,
+  "picture": "https://i.picsum.photos/id/129/4910/3252.jpg",
+  "discount": 5
+}, {
+  "id": 72,
+  "category": "G8",
+  "name": "Toni",
+  "brand": "Pontiac",
+  "description": " placerat praesent blandit nam nulla",
+  "quantity_per_unit": 43,
+  "unit_price": 95,
+  "picture": "https://i.picsum.photos/id/13/2500/1667.jpg",
+  "discount": 10
+}, {
+  "id": 73,
+  "category": "C8 Spyder Wide Body",
+  "name": "Kira's Reason: A Love Story (En Kærlighedshistorie)",
+  "brand": "Spyker",
+  "description": "  elementum eu interdum eu tincidunt",
+  "quantity_per_unit": 40,
+  "unit_price": 20,
+  "picture": "https://i.picsum.photos/id/130/3807/2538.jpg",
+  "discount": 21
+}, {
+  "id": 74,
+  "category": "S40",
+  "name": "Three Colors: Blue (Trois couleurs: Bleu)",
+  "brand": "Volvo",
+  "description": "  odio odio elementum eu interdum eu tincidunt in leo maecenas",
+  "quantity_per_unit": 31,
+  "unit_price": 26,
+  "picture": "https://i.picsum.photos/id/131/4698/3166.jpg",
+  "discount": 48
+}, {
+  "id": 75,
+  "category": "Aveo",
+  "name": "Samurai I: Musashi Miyamoto (Miyamoto Musashi)",
+  "brand": "Chevrolet",
+  "description": "  eleifend quam a odio in hac",
+  "quantity_per_unit": 57,
+  "unit_price": 75,
+  "picture": "https://i.picsum.photos/id/132/1600/1066.jpg",
+  "discount": 88
+}, {
+  "id": 76,
+  "category": "Cube",
+  "name": "Vuonna 85",
+  "brand": "Nissan",
+  "description": "  ligula in lacus curabitur at ipsum",
+  "quantity_per_unit": 100,
+  "unit_price": 62,
+  "picture": "https://i.picsum.photos/id/133/2742/1828.jpg",
+  "discount": 50
+}, {
+  "id": 77,
+  "category": "Ram 2500",
+  "name": "Gitmek: My Marlon and Brando (Gitmek: Benim Marlon ve Brandom)",
+  "brand": "Dodge",
+  "description": " ipsum aliquam non mauris morbi non",
+  "quantity_per_unit": 87,
+  "unit_price": 31,
+  "picture": "https://i.picsum.photos/id/134/4928/3264.jpg",
+  "discount": 35
+}, {
+  "id": 78,
+  "category": "Silverado",
+  "name": "Night of the Demons",
+  "brand": "Chevrolet",
+  "description": " tempor turpis nec euismod",
+  "quantity_per_unit": 90,
+  "unit_price": 55,
+  "picture": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+  "discount": 13
+}, {
+  "id": 79,
+  "category": "VUE",
+  "name": "Holiday Inn",
+  "brand": "Saturn",
+  "description": "  ut erat curabitur gravida nisi at",
+  "quantity_per_unit": 27,
+  "unit_price": 16,
+  "picture": "http://dummyimage.com/300x300.png/dddddd/000000",
+  "discount": 93
+}, {
+  "id": 80,
+  "category": "Bonneville",
+  "name": "Not Here to Be Loved (Je ne suis pas là pour être aimé)",
+  "brand": "Pontiac",
+  "description": "  mattis nibh ligula nec sem duis aliquam",
+  "quantity_per_unit": 34,
+  "unit_price": 42,
+  "picture": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+  "discount": 45
+}, {
+  "id": 81,
+  "category": "Pilot",
+  "name": "Space Pirate Captain Harlock",
+  "brand": "Honda",
+  "description": " neque duis bibendum morbi non quam",
+  "quantity_per_unit": 44,
+  "unit_price": 79,
+  "picture": "http://dummyimage.com/300x300.png/dddddd/000000",
+  "discount": 56
+}, {
+  "id": 82,
+  "category": "960",
+  "name": "Mega Python vs. Gatoroid",
+  "brand": "Volvo",
+  "description": " placerat praesent blandit nam",
+  "quantity_per_unit": 95,
+  "unit_price": 40,
+  "picture": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+  "discount": 41
+}, {
+  "id": 83,
+  "category": "Outback",
+  "name": "Take Shelter",
+  "brand": "Subaru",
+  "description": " amet sem fusce consequat",
+  "quantity_per_unit": 80,
+  "unit_price": 51,
+  "picture": "http://dummyimage.com/300x300.png/dddddd/000000",
+  "discount": 44
+}, {
+  "id": 84,
+  "category": "H2 SUV",
+  "name": "Critical Condition",
+  "brand": "Hummer",
+  "description": " vestibulum vestibulum ante",
+  "quantity_per_unit": 55,
+  "unit_price": 97,
+  "picture": "http://dummyimage.com/300x300.png/dddddd/000000",
+  "discount": 47
+}, {
+  "id": 85,
+  "category": "Town & Country",
+  "name": "Two-Way Stretch",
+  "brand": "Chrysler",
+  "description": "  risus semper porta volutpat",
+  "quantity_per_unit": 60,
+  "unit_price": 6,
+  "picture": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+  "discount": 46
+}, {
+  "id": 86,
+  "category": "Accent",
+  "name": "Embalmer, The (Imbalsamatore, L')",
+  "brand": "Hyundai",
+  "description": "  ipsum ac tellus semper interdum",
+  "quantity_per_unit": 17,
+  "unit_price": 77,
+  "picture": "http://dummyimage.com/300x300.png/dddddd/000000",
+  "discount": 62
+}, {
+  "id": 87,
+  "category": "Civic",
+  "name": "MacGyver: Lost Treasure of Atlantis",
+  "brand": "Honda",
+  "description": "  magna ac consequat metus",
+  "quantity_per_unit": 39,
+  "unit_price": 52,
+  "picture": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+  "discount": 69
+}, {
+  "id": 88,
+  "category": "Elantra",
+  "name": "They Won't Believe Me",
+  "brand": "Hyundai",
+  "description": " sapien cum sociis natoque penatibus et magnis",
+  "quantity_per_unit": 52,
+  "unit_price": 5,
+  "picture": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+  "discount": 72
+}, {
+  "id": 89,
+  "category": "Navajo",
+  "name": "Dark Portals: The Chronicles of Vidocq  (Vidocq)",
+  "brand": "Mazda",
+  "description": "  ac est lacinia nisi venenatis",
+  "quantity_per_unit": 79,
+  "unit_price": 85,
+  "picture": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+  "discount": 84
+}, {
+  "id": 90,
+  "category": "Freestar",
+  "name": "House Built on Water, A (Khanei ruye ab)",
+  "brand": "Ford",
+  "description": "  faucibus cursus urna ut",
+  "quantity_per_unit": 23,
+  "unit_price": 95,
+  "picture": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+  "discount": 40
+}, {
+  "id": 91,
+  "category": "Sequoia",
+  "name": "Thunderbolt and Lightfoot",
+  "brand": "Toyota",
+  "description": " dictumst aliquam augue",
+  "quantity_per_unit": 27,
+  "unit_price": 41,
+  "picture": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+  "discount": 41
+}, {
+  "id": 92,
+  "category": "Touareg 2",
+  "name": "Jude",
+  "brand": "Volkswagen",
+  "description": "  vestibulum vestibulum ante",
+  "quantity_per_unit": 93,
+  "unit_price": 23,
+  "picture": "http://dummyimage.com/300x300.png/dddddd/000000",
+  "discount": 51
+}, {
+  "id": 93,
+  "category": "M-Class",
+  "name": "Green for Danger",
+  "brand": "Mercedes-Benz",
+  "description": "  quis lectus suspendisse potenti in",
+  "quantity_per_unit": 77,
+  "unit_price": 95,
+  "picture": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+  "discount": 6
+}, {
+  "id": 94,
+  "category": "750",
+  "name": "Powers of Ten",
+  "brand": "BMW",
+  "description": "  nulla suscipit ligula in lacus",
+  "quantity_per_unit": 24,
+  "unit_price": 58,
+  "picture": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+  "discount": 65
+}, {
+  "id": 95,
+  "category": "S60",
+  "name": "Midnight (Primeiro Dia, O)",
+  "brand": "Volvo",
+  "description": "  ut volutpat sapien arcu sed augue aliquam erat",
+  "quantity_per_unit": 10,
+  "unit_price": 100,
+  "picture": "http://dummyimage.com/300x300.png/dddddd/000000",
+  "discount": 83
+}, {
+  "id": 96,
+  "category": "Eclipse",
+  "name": "Autumn in New York",
+  "brand": "Mitsubishi",
+  "description": "  lorem ipsum dolor sit amet",
+  "quantity_per_unit": 87,
+  "unit_price": 20,
+  "picture": "http://dummyimage.com/300x300.png/ff4444/ffffff",
+  "discount": 28
+}, {
+  "id": 97,
+  "category": "Avalon",
+  "name": "Mission: Impossible II",
+  "brand": "Toyota",
+  "description": "  consequat nulla nisl nunc",
+  "quantity_per_unit": 1,
+  "unit_price": 96,
+  "picture": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+  "discount": 31
+}, {
+  "id": 98,
+  "category": "Grand Prix",
+  "name": "Man Who Cried, The",
+  "brand": "Pontiac",
+  "description": "  augue a suscipit nulla elit ac nulla sed vel",
+  "quantity_per_unit": 73,
+  "unit_price": 41,
+  "picture": "http://dummyimage.com/300x300.png/dddddd/000000",
+  "discount": 90
+}, {
+  "id": 99,
+  "category": "iQ",
+  "name": "All About the Feathers (Por Las Plumas)",
+  "brand": "Scion",
+  "description": "  dictumst aliquam augue quam sollicitudin vitae",
+  "quantity_per_unit": 39,
+  "unit_price": 22,
+  "picture": "http://dummyimage.com/300x300.png/5fa2dd/ffffff",
+  "discount": 63
+}, {
+  "id": 100,
+  "category": "XK Series",
+  "name": "Husk",
+  "brand": "Jaguar",
+  "description": " nulla sed vel enim sit",
+  "quantity_per_unit": 77,
+  "unit_price": 11,
+  "picture": "http://dummyimage.com/300x300.png/cc0000/ffffff",
+  "discount": 85
+}]
