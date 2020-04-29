@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const server = jsonServer.create();
 const router = jsonServer.router(require('./db.js')());
 const middlewares = jsonServer.defaults();
-const port = process.env.PORT || 8080;
+const port = process.env.PORT;
 
 const path = require('path');
 const fs = require('fs');
